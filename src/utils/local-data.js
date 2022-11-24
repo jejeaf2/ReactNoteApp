@@ -41,6 +41,13 @@ let notes = [
     createdAt: '2022-04-14T04:27:34.572Z',
     archived: false,
   },
+  {
+    id: 'notes-7',
+    title: 'My Frofile',
+    body: 'Halo kamu perkenalkan ini aku, orang yang menurutmu cuek tapi menurutku tidak. spekulasi mu tak bermakna. ',
+    createdAt: '2022-04-14T04:27:34.572Z',
+    archived: false,
+  },
 ];
 
 function getAllNotes() {
